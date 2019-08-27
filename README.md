@@ -1,4 +1,4 @@
-view_cpts: simple script to see all available colormaps in GMT._
+view_cpts: simple script to see all available colormaps in GMT.
 -----
 
 Do you want to see the full set of GMT colormaps available in your installation? Here is a simple script that will create a colorbar for each one:
